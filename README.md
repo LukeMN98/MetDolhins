@@ -1,2 +1,2 @@
-# MetDolhins
-dolphins-MET-meuseum
+# MetDogs
+dogs-MET-meuseum
